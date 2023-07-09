@@ -1,0 +1,27 @@
+2023-05-21 22:58:16,394 :INFO : TestOne :Opened the URL
+2023-05-21 22:58:16,400 :INFO : TestOne :DEMOQA
+2023-05-21 22:58:16,733 :INFO : TestOne :Clicked on Elements
+2023-05-21 22:58:16,752 :INFO : TestOne :Elements
+2023-05-21 22:58:16,800 :INFO : TestOne :Clicked on Text Box
+2023-05-21 22:58:17,072 :INFO : TestOne :Given Full Name
+2023-05-21 22:58:17,168 :INFO : TestOne :Given Email
+2023-05-21 22:58:17,386 :INFO : TestOne :Given Current Address
+2023-05-21 22:58:17,473 :INFO : TestOne :Given Permenant Address
+2023-05-21 22:58:17,545 :INFO : TestOne :Clicked on Submit button
+2023-05-21 22:58:22,647 :INFO : TestOne :Name:Automation Tester
+2023-05-21 22:58:22,647 :INFO : TestOne :Email:automation.tester@test.org
+2023-05-21 22:58:22,647 :INFO : TestOne :Current Address :Testing123
+2023-05-21 22:58:22,647 :INFO : TestOne :Permananet Address :Testing12345
+2023-05-21 22:58:22,647 :INFO : TestOne :Form details displayed on UI as given in text boxes
+2023-05-21 22:58:22,647 :INFO : TestOne :Pass
+2023-05-21 22:58:22,765 :INFO : TestOne :Given Full Name
+2023-05-21 22:58:22,857 :INFO : TestOne :Given Email
+2023-05-21 22:58:22,923 :INFO : TestOne :Given Current Address
+2023-05-21 22:58:23,006 :INFO : TestOne :Given Permenant Address
+2023-05-21 22:58:23,055 :INFO : TestOne :Clicked on Submit button
+2023-05-21 22:58:28,146 :INFO : TestOne :Name:Functional Tester
+2023-05-21 22:58:28,146 :INFO : TestOne :Email:functional.tester@test.org
+2023-05-21 22:58:28,146 :INFO : TestOne :Current Address :Testing123
+2023-05-21 22:58:28,146 :INFO : TestOne :Permananet Address :Testing12345
+2023-05-21 22:58:28,146 :INFO : TestOne :Form details displayed on UI as given in text boxes
+2023-05-21 22:58:28,146 :INFO : TestOne :Pass
